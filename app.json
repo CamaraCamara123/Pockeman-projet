@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "first-rn-component",
+    "slug": "pokemanproject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/6f4e6e9d-a27a-4eb2-9158-89665e7bcfbf"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6f4e6e9d-a27a-4eb2-9158-89665e7bcfbf"
+      }
+    },
+    "owner": "camara123",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
+}
